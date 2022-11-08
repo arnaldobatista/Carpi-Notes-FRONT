@@ -2,5 +2,5 @@
 import axios from 'axios'
 
 export const api = axios.create({ // nessa config, podemos colocar a url da nossa api.
-    baseURL: 'http://192.168.100.6:8180'
+    baseURL: 'http://132.255.95.56:8180'
 })
