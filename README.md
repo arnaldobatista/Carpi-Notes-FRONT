@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Nesse projeto desenvolvi um site de criação, lista e pesquisa de notas, com opção de criação de usuário.
 
-Acesse o site: [CARPI NOTES](#)
+Acesse o site: [CARPI NOTES](http://carpinotes.ddns.net:81/)
 
   - Site hospedado em um projeto servidor pessoal. Saiba mais:
   - `Repositório:` [Repositório SERVIDOR DE SITES E OUTROS SERVIÇOS](https://github.com/arnaldocarpi/Projeto-Servidor-com-Aplicacoes)
