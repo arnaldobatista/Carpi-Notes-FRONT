@@ -28,9 +28,9 @@ Acesse o site: [CARPI NOTES](http://carpinotes.ddns.net:81/)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Arnaldo Carpi](https://img.shields.io/badge/-arnaldocarpi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaldocarpi)](https://www.linkedin.com/in/arnaldocarpi)
+[![Linkedin: Arnaldo Batista](https://img.shields.io/badge/-arnaldbatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaldbatista)](https://www.linkedin.com/in/arnaldbatista)
 [![Gmail Badge](https://img.shields.io/badge/-arnaldo.carpi@icloud.com-006bed?style=flat-square&logo=apple&logoColor=white&link=mailto:arnaldo.carpi@icloud.com)](mailto:arnaldo.carpi@icloud.com)
-[![GitHub Arnaldo Carpi]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/arnaldocarpi)
+[![GitHub Arnaldo Batista]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/arnaldbatista)
 
 <h3>Tela de Criação de usuário</h3>
 <img src="https://github.com/arnaldocarpi/Carpi-Notes-FRONT/blob/master/src/assets/outros/Captura%20de%20Tela%202022-11-07%20%C3%A0s%2014.56.27.png">
